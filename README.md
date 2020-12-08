@@ -3,12 +3,12 @@ Median filtering of an image
 
 Original Image:
 
-![Screenshot](./noisy.jpg)
+![Screenshot](noisy.jpg)
 
 
 Window Size of 1:
 
-![Screenshot](/resultImages/resultWindowSize1.jpg)
+![Screenshot](resultWindowSize1.jpg)
 
 
 Window Size of 2:
