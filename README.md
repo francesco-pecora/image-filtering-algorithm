@@ -8,30 +8,30 @@ Original Image:
 
 Window Size of 1:
 
-![plot](./resultImages/resultWindowSize1.jpg)
+![plot](./resultImages/resultWindowSize1.JPG)
 
 
 Window Size of 2:
 
-![plot](./resultImages/resultWindowSize2.jpg)
+![plot](./resultImages/resultWindowSize2.JPG)
 
 
 Window Size of 3:
 
-![plot](./resultImages/resultWindowSize3.jpg)
+![plot](./resultImages/resultWindowSize3.JPG)
 
 
 Window Size of 4:
 
-![plot](./resultImages/resultWindowSize4.jpg)
+![plot](./resultImages/resultWindowSize4.JPG)
 
 
 Window Size of 5:
 
-![plot](./resultImages/resultWindowSize5.jpg)
+![plot](./resultImages/resultWindowSize5.JPG)
 
 
 
 Window Size of 10:
 
-![plot](./resultImages/resultWindowSize10.jpg)
+![plot](./resultImages/resultWindowSize10.JPG)
