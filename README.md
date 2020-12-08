@@ -8,7 +8,7 @@ Original Image:
 
 Window Size of 1:
 
-![Screenshot](./resultImages/resultWindowSize1.jpg)
+![Screenshot](/resultImages/resultWindowSize1.jpg)
 
 
 Window Size of 2:
