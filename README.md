@@ -3,35 +3,35 @@ Median filtering of an image
 
 Original Image:
 
-![Screenshot](noisy.jpg)
+![plot](./noisy.jpg)
 
 
 Window Size of 1:
 
-![Screenshot](resultWindowSize1.jpg)
+![plot](./resultImages/resultWindowSize1.jpg)
 
 
 Window Size of 2:
 
-![Screenshot](./resultImages/resultWindowSize2.jpg)
+![plot](./resultImages/resultWindowSize2.jpg)
 
 
 Window Size of 3:
 
-![Screenshot](./resultImages/resultWindowSize3.jpg)
+![plot](./resultImages/resultWindowSize3.jpg)
 
 
 Window Size of 4:
 
-![Screenshot](./resultImages/resultWindowSize4.jpg)
+![plot](./resultImages/resultWindowSize4.jpg)
 
 
 Window Size of 5:
 
-![Screenshot](./resultImages/resultWindowSize5.jpg)
+![plot](./resultImages/resultWindowSize5.jpg)
 
 
 
 Window Size of 10:
 
-![Screenshot](./resultImages/resultWindowSize10.jpg)
+![plot](./resultImages/resultWindowSize10.jpg)
