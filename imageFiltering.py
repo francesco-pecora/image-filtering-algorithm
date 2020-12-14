@@ -5,11 +5,14 @@
 """
 
 import cv2
+from numpy import median
+from medianDeterministic import DeterministicMedian
 
 class ImageFilterMedian:
     def __init__(self, img, windowSize = 1):
         self.img = img
         self.windowSize = windowSize
+        self.median = DeterministicMedian()
     
     def filterImage(self):
         rows = len(self.img)
@@ -21,8 +24,7 @@ class ImageFilterMedian:
     
     def findMedianOfNeighbours(self, row, col):
         neighbours = self.getNeighbours(row, col)
-        neighbours.sort()
-        return neighbours[len(neighbours) // 2]
+        return self.median.quickselect_median(neighbours)
 
     def getNeighbours(self, row, col):
         topLeft = (row - self.windowSize, col - self.windowSize)
